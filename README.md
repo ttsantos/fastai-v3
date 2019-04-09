@@ -1,7 +1,12 @@
-# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+# 3-1-1 mini app with [fast.ai](https://www.fast.ai) machine learning model on [Render](https://render.com)
 
-This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
+https://en.wikipedia.org/wiki/3-1-1
+Inspired by the necessity of providing the type of problem or having internals teams offloading tasks, I have built this model to understand machine learning applied to vision.
 
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
+Total effort:
+fast.ai lesson1 and 2 (~4hours)
+Data access, manipulation and preparation (~4hours)
+Training (~4hours)
+Deploying (~30min)
 
-The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html.
+In less than 16 hours (2 work days) it is possible to deploy a model for visual classification with 80% accuracy.
