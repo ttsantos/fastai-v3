@@ -9,4 +9,4 @@ Data access, manipulation and preparation (~4hours)
 Training (~4hours)
 Deploying (~30min)
 
-In less than 16 hours (2 work days) it is possible to deploy a model for visual classification with 80% accuracy.
+In less than 24 hours (3 work days) it is possible to deploy a model for visual classification with 89% accuracy.
