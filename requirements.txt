@@ -1,6 +1,6 @@
 numpy
 torchvision
-https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp37-cp37m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torch-1.1.0-cp37-cp37m-linux_x86_64.whl
 https://files.pythonhosted.org/packages/de/07/7203179ba2f211bfbda364f883f645aea4d09ccfd48ce5dbb00a894722bf/fastai-1.0.52-py3-none-any.whl
 starlette
 uvicorn==0.3.32
