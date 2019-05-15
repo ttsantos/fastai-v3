@@ -12,7 +12,6 @@ from fastai.vision import *
 export_file_url = 'https://drive.google.com/uc?export=download&id=1-LxqtqOoZuevATwyv5oLpPjnB-POCroB'
 export_file_name = 'export.pkl'
 
-
 classes = ['Calçada',
   'Câmara Municipal',
   'Dejetos Caninos',
